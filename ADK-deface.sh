@@ -4,7 +4,7 @@ toilet --metal "MR_CEKUY"
 xdg-open  https://youtube.com/channel/UCt9-cT9A6TkAcIuLRVZ9XeQ
 echo '[+] Author : MR_cekuy'
 echo '[+] Team : Attacker Dead Killer'
-echo '[+] Github : '
+echo '[+] Github : https://github.com/MrCekuy404/ADK-DEFACe'
 echo '[+] YouTube : https://youtube.com/channel/UCt9-cT9A6TkAcIuLRVZ9XeQ'
 echo ''
 read -p $'\e[32mWeb Target :\e[0m ' target
