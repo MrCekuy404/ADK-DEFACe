@@ -6,6 +6,7 @@ echo '[+] Author : MR_cekuy'
 echo '[+] Team : Attacker Dead Killer'
 echo '[+] Github : https://github.com/MrCekuy404/ADK-DEFACe'
 echo '[+] YouTube : https://youtube.com/channel/UCt9-cT9A6TkAcIuLRVZ9XeQ'
+echo '[+] Pesan :Gunakan Dengan Bijak Karna Pembuat Tidak Bertanggung jawab Jika Digunakan Ke Keriminalan
 echo ''
 read -p $'\e[32mWeb Target :\e[0m ' target
 read -p $'\e[32mBuat Username Untuk Di script :\e[0m ' user
